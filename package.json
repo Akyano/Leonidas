@@ -1,0 +1,31 @@
+{
+  "name": "akyabot",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akyano/Akyabot.git"
+  },
+  "author": "Akyano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Akyano/Akyabot/issues"
+  },
+  "homepage": "https://github.com/Akyano/Akyabot#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^10.0.0",
+    "eris": "^0.15.1",
+    "eris-reactions": "^0.1.4",
+    "fs": "0.0.1-security",
+    "klaw": "^3.0.0",
+    "moment": "^2.29.1",
+    "path": "^0.12.7",
+    "slash-create": "^3.4.2",
+    "util": "^0.12.4"
+  }
+}
